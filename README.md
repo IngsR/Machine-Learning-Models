@@ -31,8 +31,6 @@ Machine-Learning-Models/
 2.  **Instal dependensi:**  Pastikan Anda memiliki Python dan pip terinstal.  Kemudian, instal pustaka yang diperlukan:
 
     ```bash
-    pip install -r requirements.txt  # Jika ada berkas requirements.txt
-    # atau instal satu per satu jika tidak ada requirements.txt:
     pip install scikit-learn pandas numpy matplotlib seaborn tensorflow pytorch
     ```
 
