@@ -13,11 +13,11 @@ Repositori ini berisi koleksi model Machine Learning yang diimplementasikan meng
 ## 📂 Struktur Direktori    
 
 Machine-Learning-Models/
-├── 📁 klasifikasi/       # Model-model untuk tugas klasifikasi
-├── 📁 prediksi/          # Model-model untuk tugas regresi (prediksi)
-├── 📁 clustering/        # Model-model untuk tugas clustering
-├── 📁 data/              # Dataset yang digunakan dalam model
-├── 📄 README.md          # Berkas ini
+├── 📁 klasifikasi/       # Model-model untuk tugas klasifikasi        
+├── 📁 prediksi/          # Model-model untuk tugas regresi (prediksi)        
+├── 📁 clustering/        # Model-model untuk tugas clustering        
+├── 📁 data/              # Dataset yang digunakan dalam model        
+├── 📄 README.md          # Berkas ini        
 
 ## 🚀 Cara Menggunakan
 
