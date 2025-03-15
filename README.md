@@ -10,13 +10,14 @@ Repositori ini berisi koleksi model Machine Learning yang diimplementasikan meng
 *   **Penjelasan yang Jelas:** Notebooks berisi penjelasan kode yang rinci dan komentar untuk mempermudah pemahaman.
 *   **Mudah Digunakan:** Kode dirancang agar mudah dimodifikasi dan diadaptasi untuk kasus penggunaan Anda sendiri.
 
-## 📂 Struktur Direktori
+## 📂 Struktur Direktori    
+
 Machine-Learning-Models/
-├── 📁 klasifikasi/ # Model-model untuk tugas klasifikasi
-├── 📁 prediksi/ # Model-model untuk tugas regresi (prediksi)
-├── 📁 clustering/ # Model-model untuk tugas clustering
-├── 📁 data/ # Dataset yang digunakan dalam model
-├── 📄 README.md 
+├── 📁 klasifikasi/       # Model-model untuk tugas klasifikasi
+├── 📁 prediksi/          # Model-model untuk tugas regresi (prediksi)
+├── 📁 clustering/        # Model-model untuk tugas clustering
+├── 📁 data/              # Dataset yang digunakan dalam model
+├── 📄 README.md          # Berkas ini
 
 ## 🚀 Cara Menggunakan
 
