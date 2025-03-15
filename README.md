@@ -44,16 +44,6 @@ Machine-Learning-Models/
 
 5.  **Eksplorasi dan Modifikasi:**  Jalankan sel-sel kode dalam notebook dan modifikasi sesuai kebutuhan Anda.
 
-## 🛠️ Kontribusi
-
-Kami sangat menghargai kontribusi! Jika Anda ingin menambahkan model baru, memperbaiki kesalahan, atau meningkatkan dokumentasi, silakan ikuti langkah-langkah berikut:
-
-1.  **Fork repositori.**
-2.  **Buat branch untuk fitur Anda:** `git checkout -b fitur-baru`
-3.  **Buat perubahan Anda.**
-4.  **Commit perubahan Anda:** `git commit -m 'Tambahkan fitur baru'`
-5.  **Push ke branch Anda:** `git push origin fitur-baru`
-6.  **Buat Pull Request.**
 
 ## 📚 Pustaka yang Digunakan
 
