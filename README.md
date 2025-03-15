@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Models dengan Jupyter Notebook (*IPYNB*)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/Machine-Learning-Models)  [![Open in VS Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/USERNAME/Machine-Learning-Models)
+# 🤖 Machine Learning Models dengan Jupyter Notebook (*IPYNB*)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/Machine-Learning-Models)  [![Open in VS Code](https://img.shields.io/badge/Open%20in%20VS%20Code-blue?style=flat-square&logo=visual-studio-code)](https://vscode.dev/github/USERNAME/Machine-Learning-Models)
 
 Repositori ini berisi koleksi model Machine Learning yang diimplementasikan menggunakan Jupyter Notebook (*.ipynb*).  Model-model ini dikategorikan berdasarkan jenis tugasnya dan memanfaatkan pustaka Python populer seperti Scikit-Learn, TensorFlow, dan PyTorch. Tujuan dari repositori ini adalah menyediakan contoh kode yang jelas, ringkas, dan mudah dipahami untuk berbagai algoritma Machine Learning.
 
