@@ -16,8 +16,7 @@ Machine-Learning-Models/
 ├── 📁 klasifikasi/       # Model-model untuk tugas klasifikasi        
 ├── 📁 regresi/          # Model-model untuk tugas regresi (prediksi)        
 ├── 📁 clustering/        # Model-model untuk tugas clustering        
-├── 📁 data/              # Dataset yang digunakan dalam model        
-├── 📄 README.md          # Berkas ini        
+├── 📁 data/              # Dataset yang digunakan dalam model            
 
 ## 🚀 Cara Menggunakan
 
