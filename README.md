@@ -30,7 +30,7 @@ Machine-Learning-Models/
 2.  **Instal dependensi:**  Pastikan Anda memiliki Python dan pip terinstal.  Kemudian, instal pustaka yang diperlukan:
 
     ```bash
-    pip install scikit-learn pandas numpy matplotlib seaborn tensorflow pytorch
+    pip install scikit-learn pandas numpy matplotlib seaborn tensorflow 
     ```
 
 3.  **Jalankan Jupyter Notebook:**
