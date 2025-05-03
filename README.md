@@ -5,7 +5,7 @@ Repositori ini berisi koleksi model Machine Learning yang diimplementasikan meng
 ## 💡 Fitur Utama
 
 *   **Beragam Model:**  Mencakup berbagai algoritma untuk klasifikasi, regresi (prediksi), clustering, dan lain-lain.
-*   **Jupyter Notebooks:** Setiap model diimplementasikan dalam Jupyter Notebook, memungkinkan eksplorasi interaktif dan visualisasi hasil.s
+*   **Jupyter Notebooks:** Setiap model diimplementasikan dalam Jupyter Notebook, memungkinkan eksplorasi interaktif dan visualisasi hasil.
 *   **Dataset yang Relevan:** Setiap model dilengkapi dengan dataset contoh (jika memungkinkan) untuk demonstrasi dan pengujian.
 *   **Penjelasan yang Jelas:** Notebooks berisi penjelasan kode yang rinci dan komentar untuk mempermudah pemahaman.
 *   **Mudah Digunakan:** Kode dirancang agar mudah dimodifikasi dan diadaptasi untuk kasus penggunaan Anda sendiri.
