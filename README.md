@@ -13,7 +13,7 @@ Repositori ini berisi koleksi model Machine Learning yang diimplementasikan meng
 ## 📂 Struktur Direktori    
 
 Machine-Learning-Models/            
-├── 📁 klasifikasi/       # Model-model klasifikasi        sad
+├── 📁 klasifikasi/       # Model-model klasifikasi        s
 ├── 📁 regresi/          # Model-model regresi (prediksi nilai Kontin)        
 ├── 📁 clustering/        # Model-model untuk clustering (pengelompokan data)     
 ├── 📁 data/                        
